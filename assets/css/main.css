@@ -3210,7 +3210,7 @@ body.is-preload #header.alt .logo {
 #main input[type="button"].primary,
 #main button.primary,
 #main .button.primary {
-    background-color: #8cc9f0;
+    background-color: #007fab;
     color: #ffffff !important;
     box-shadow: none;
 }
@@ -3577,6 +3577,7 @@ quote {
     margin-top: 5em;
 }
 
-.ukraine, .html5up {
+.ukraine,
+.html5up {
     margin-left: 1em;
 }
