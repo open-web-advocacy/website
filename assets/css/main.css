@@ -3213,6 +3213,7 @@ body.is-preload #header.alt .logo {
     background-color: #007fab!important;
     color: #ffffff !important;
     box-shadow: none;
+    text-align: center;
 }
 
 #main input[type="submit"].primary:hover,
